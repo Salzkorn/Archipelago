@@ -42,5 +42,14 @@ union wiki (multithreading may be important): https://github.com/Gratt-5r2/Union
     - puts items in hero inventory
 - questions:
   - how to instance AP items with "location" IDs?
+    - ikarus classes?
   - how to avoid resending items on reconnect?
   - how to change quest rewards?
+
+workflow
+  - after editing mod scripts:
+    - run VDFS tool
+    - go to builder tab
+    - open archipelago.vm script
+    - build mod
+    - copy archipelago.vdf into data
