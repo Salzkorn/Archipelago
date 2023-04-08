@@ -1,0 +1,46 @@
+CLIENT
+- mod is installed via steam workshop
+  - user needs steam workshop beta (as in steam library > gothic > properties > betas)
+- finds gothic dir a la sc2
+- on connect, writes local world data to mod specific .ini or special file (eg. ap_state)
+  - then tells user that they can open gothic and play
+- watches a mod-created save file for changes (eg. ap_send)
+  - some other game does something similar
+- on receive, writes changes to file for mod to read (eg. ap_receive)
+
+MOD
+- links:
+basic modding intro: https://www.worldofgothic.de/modifikation/?go=editinggrundlagen
+lego thread: https://forum.worldofplayers.de/forum/threads/1505251-Skriptpaket-LeGo-4
+lego wiki: https://lego.worldofplayers.de/
+  also contains ikarus docs
+gothic functions (need to download): https://forum.worldofplayers.de/forum/threads/1023720-Skriptpaket-LeGo/page14?p=17631567#post17631567
+ninja wiki: https://github.com/szapp/Ninja/wiki
+union wiki (multithreading may be important): https://github.com/Gratt-5r2/UnionProject/wiki
+- dependencies:
+  - ninja
+  - maybe union
+    - would like to avoid because lol broken english docs
+- AP functionality:
+  - on new game:
+    - read mod specific ini (or ap_state) for things that already changed in the world
+    - go through all npcs & containers in the world and replace their inventories with AP items with location IDs
+      - this should stick across saves/loads
+    - set LeGo FrameFunction for receiving
+      - void FF_ApplyOnceExtGT(func function, int delay, int cycles)
+        - delay in frames, 60 should be fine?
+        - cycles = -1 to repeat endlessly
+  - on new game & load:
+    - give player items they've received but not processed (somehow)
+  - sending items:
+    - HookDaedalusFunc to npc item pickup
+    - check that npc is hero, item is AP item
+    - write checked location to ap_send
+  - receiving items:
+    - done via a LeGo FrameFunction
+    - reads ap_receive to see newly gained items
+    - puts items in hero inventory
+- questions:
+  - how to instance AP items with "location" IDs?
+  - how to avoid resending items on reconnect?
+  - how to change quest rewards?
