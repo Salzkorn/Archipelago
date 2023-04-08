@@ -17,6 +17,7 @@ lego wiki: https://lego.worldofplayers.de/
 gothic functions (need to download): https://forum.worldofplayers.de/forum/threads/1023720-Skriptpaket-LeGo/page14?p=17631567#post17631567
 ninja wiki: https://github.com/szapp/Ninja/wiki
 union wiki (multithreading may be important): https://github.com/Gratt-5r2/UnionProject/wiki
+almanach: https://almanach.worldofgothic.de/index.php/Gothic_Almanach:Hauptseite
 - dependencies:
   - ninja
   - maybe union
