@@ -1,6 +1,7 @@
 CLIENT
 - mod is installed via steam workshop
   - user needs steam workshop beta (as in steam library > gothic > properties > betas)
+  - gothic workshop ToS says no mods that require outside downloads, so maybe not an option
 - finds gothic dir a la sc2
 - on connect, writes local world data to mod specific .ini or special file (eg. ap_state)
   - then tells user that they can open gothic and play
@@ -45,7 +46,15 @@ almanach: https://almanach.worldofgothic.de/index.php/Gothic_Almanach:Hauptseite
   - how to instance AP items with "location" IDs?
     - ikarus classes?
   - how to avoid resending items on reconnect?
+    - via persistent storage in multiworld slot
   - how to change quest rewards?
+    - translation friendly way: HookDaedalus into correct functions, remove original reward and implant AP item
+    - easier to figure out: just overwrite the quests and replace the reward items
+
+notables
+  - DIA_EXTRO_AVI plays outro videos I think? needs testing
+    - this would be the place to hook into to generate the victory condition
+      - if done this way, don't even generate AP item, just write to ap_send directly
 
 workflow
   - after editing mod scripts:
