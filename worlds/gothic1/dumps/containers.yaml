@@ -1,0 +1,4743 @@
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 502
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 67
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 86
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITWRFOKUSBUCH"
+      name: "Almanach"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 96
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 521
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 45
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+    - obj: "FOCUS_5"
+      name: "Fokus unter dem Stonehenge"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTLARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 7
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 62
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTLARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 5
+    - obj: "ITARSCROLLHEAL"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 20
+    - obj: "ITARSCROLLHEAL"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 25
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 12
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 2
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD_CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 4
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 4
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 46
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITKECAVALORN01"
+      name: "Cavalorns Schlüssel"
+      amount: 1
+    - obj: "ITAT_TEETH_01"
+      name: "Zähne"
+      amount: 4
+    - obj: "ITAT_WOLF_01"
+      name: "Wolfsfell"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 10
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 2
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 3
+- obj: "CHESTBIG_OCCHESTLARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITKE_BERG_01"
+      name: "Truhenschlüssel"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 7
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 46
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 7
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 7
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 32
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLTRFMOLERAT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 42
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 22
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+    - obj: "ITARSCROLLTRFSCAVENGER"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITARSCROLLTRFWOLF"
+      name: "Spruchrolle"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLTRFMOLERAT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 82
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "FOCUS_4"
+      name: "Fokus aus der Klosterruine"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 92
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+    - obj: "ITARSCROLLTRFMEATBUG"
+      name: "Spruchrolle"
+      amount: 2
+    - obj: "ITKE_FOCUS4"
+      name: "Schlüssel"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITWR_URKUNDE_01"
+      name: "Urkunde"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 2
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 4
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 2
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 2
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 117
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 92
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 11
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 4
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 7
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 69
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW2HORCMACE01"
+      name: "Krush Karrok"
+      amount: 1
+    - obj: "ITMW2HORCAXE04"
+      name: "Krush BrokDar"
+      amount: 1
+    - obj: "ITMW2HORCAXE02"
+      name: "Krush UrRok"
+      amount: 3
+    - obj: "ITMW2HORCAXE01"
+      name: "Krush Pach"
+      amount: 2
+    - obj: "ITMW2HORCSWORD01"
+      name: "Krush Varrok"
+      amount: 4
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 30
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 2
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLTRFORCDOG"
+      name: "Spruchrolle"
+      amount: 3
+    - obj: "ITARSCROLLHEAL"
+      name: "Spruchrolle"
+      amount: 3
+    - obj: "ITARSCROLLLIGHT"
+      name: "Spruchrolle"
+      amount: 5
+    - obj: "ITARSCROLLFIRESTORM"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITARSCROLLFIRERAIN"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITARSCROLLFIREBALL"
+      name: "Spruchrolle"
+      amount: 2
+    - obj: "ITARSCROLLTELEPORT4"
+      name: "Spruchrolle"
+      amount: 1
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_HERB_03"
+      name: "Heilkräuter"
+      amount: 4
+    - obj: "ITFO_PLANTS_NIGHTSHADOW_02"
+      name: "Mondschatten"
+      amount: 5
+    - obj: "ITFO_PLANTS_ORCHERB_02"
+      name: "Eichenblatt"
+      amount: 3
+    - obj: "ITFO_PLANTS_STONEROOT_02"
+      name: "Drachenwurzel"
+      amount: 4
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 5
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 10
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 5
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 10
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 100
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARRUNETELEPORT1"
+      name: "Rune"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 52
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 1
+    - obj: "ORE_ARMOR_M"
+      name: "antike Erzrüstung"
+      amount: 1
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 42
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 4
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 10
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 2
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 3
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_WARHAMMER_01"
+      name: "Orkhammer"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 3
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_LONG_04"
+      name: "Siegbringer"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 113
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 3
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITARSCROLLFIREBOLT"
+      name: "Spruchrolle"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 22
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 4
+- obj: "CHEST"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 7
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 4
+- obj: "CHESTBIG_OCCHESTLARGELOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_WINEBERRYS_01"
+      name: "Weintrauben"
+      amount: 1
+    - obj: "ITMW_1H_SLEDGEHAMMER_01"
+      name: "Schmiedehammer"
+      amount: 1
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "REZEPTUREN"
+      name: "Rezepturen"
+      amount: 1
+- obj: ""
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 10
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 10
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_POKER_01"
+      name: "Schürhaken"
+      amount: 1
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 1
+    - obj: "ITFOCRAWLERSOUP"
+      name: "Minecrawlersuppe"
+      amount: 1
+- obj: ""
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 321
+- obj: ""
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HASTE_02"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_PERMA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 10
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 10
+- obj: ""
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 5
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 5
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTLARGELOCKED"
+  name: ""
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "CHEST"
+  name: "OLD CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 202
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITFOAPPLE"
+      name: "Apfel"
+      amount: 3
+- obj: "CHEST"
+  name: "CHEST"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTLARGELOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 2
+- obj: "CHESTBIG_OCCHESTLARGELOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTLARGELOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_WINEBERRYS_01"
+      name: "Weintrauben"
+      amount: 1
+- obj: "CHESTSMALL_OCCHESTSMALLLOCKED"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 30
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 7
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 220
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 10
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 6
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 130
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_HERB_01"
+      name: "Heilkräuter"
+      amount: 2
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 6
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITRW_BOW_SMALL_02"
+      name: "Reiterbogen"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 32
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_HERB_01"
+      name: "Heilkräuter"
+      amount: 1
+    - obj: "ITFOAPPLE"
+      name: "Apfel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 18
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_ALCHEMY_ALCOHOL_01"
+      name: "Reiner Alkohol"
+      amount: 8
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 7
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 13
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 30
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 11
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 20
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 2
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 23
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 4
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 2
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 19
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 27
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 18
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 8
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 4
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 123
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 3
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 2
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 40
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 2
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 2
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 2
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 2
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 16
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 30
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 19
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 5
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 26
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 3
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 5
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 11
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 4
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 32
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 3
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 3
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 19
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 4
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 37
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 5
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 17
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 26
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 16
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 3
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 6
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 5
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 28
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 17
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 2
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 2
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 28
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 9
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 4
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 21
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_ALCHEMY_SULPHUR_01"
+      name: "Schwefel"
+      amount: 4
+    - obj: "ITMI_ALCHEMY_SALT_01"
+      name: "Salz"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 4
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 49
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 5
+    - obj: "ITFO_PLANTS_SERAPHIS_01"
+      name: "Seraphis"
+      amount: 4
+    - obj: "ITFO_PLANTS_HERB_02"
+      name: "Heilkräuter"
+      amount: 2
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 6
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 3
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 25
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_ORCHERB_01"
+      name: "Orkblatt"
+      amount: 3
+    - obj: "ITFO_PLANTS_RAVENHERB_01"
+      name: "Rabenkraut"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFO_PLANTS_SERAPHIS_01"
+      name: "Seraphis"
+      amount: 4
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_RAVENHERB_01"
+      name: "Rabenkraut"
+      amount: 1
+    - obj: "ITFO_PLANTS_BLOODWOOD_01"
+      name: "Blutbuchen Samen"
+      amount: 2
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 4
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFO_PLANTS_HERB_02"
+      name: "Heilkräuter"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_PLANTS_FLAMEBERRY_01"
+      name: "Flammendorn"
+      amount: 2
+    - obj: "ITMI_ALCHEMY_QUICKSILVER_01"
+      name: "Quecksilber"
+      amount: 4
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 3
+    - obj: "ITFO_PLANTS_SERAPHIS_01"
+      name: "Seraphis"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 1
+    - obj: "SCHUTZAMULETT_WAFFEN"
+      name: "Amulett"
+      amount: 1
+    - obj: "ITFO_POTION_HASTE_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_PERMA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 4
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_03"
+      name: "Gardeschwert"
+      amount: 3
+    - obj: "ITMW_1H_SWORD_BASTARD_02"
+      name: "Schlachter"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_BROAD_02"
+      name: "Kriegerurteil"
+      amount: 2
+    - obj: "ITMW_1H_SWORD_BROAD_01"
+      name: "Breitschwert"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "WAHRE_MACHT"
+      name: "Wahre Macht"
+      amount: 1
+    - obj: "ITFO_PLANTS_SERAPHIS_01"
+      name: "Seraphis"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 135
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 3
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 7
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 5
+    - obj: "ITMIJOINT_2"
+      name: "Schwarzer Weiser"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 32
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "KALOMSRECIPE"
+      name: "Kalom's Rezept"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 1
+    - obj: "SCHUTZAMULETT_WAFFEN"
+      name: "Amulett"
+      amount: 1
+    - obj: "ITFO_POTION_HASTE_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_PERMA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 4
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 4
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 3
+    - obj: "ITMIJOINT_2"
+      name: "Schwarzer Weiser"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 20
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_AXE_01"
+      name: "Axt"
+      amount: 3
+    - obj: "ITAT_CRAWLER_01"
+      name: "Crawlerzangen"
+      amount: 10
+    - obj: "ITMISWORDBLADE"
+      name: "Klinge"
+      amount: 16
+    - obj: "ITMISWORDRAW"
+      name: "Rohstahl"
+      amount: 27
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 1
+    - obj: "ITMIJOINT_1"
+      name: "Grüner Novize"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 100
+- obj: ""
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "FOCUS_1"
+      name: "Fokus von der Meeresklippe"
+      amount: 1
+    - obj: "ITWRFOKUSBUCH"
+      name: "Almanach"
+      amount: 1
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 13
+    - obj: "ITAT_CLAWS_01"
+      name: "Krallen"
+      amount: 27
+    - obj: "ITAT_SHADOW_02"
+      name: "Horn"
+      amount: 13
+    - obj: "ITAT_TEETH_01"
+      name: "Zähne"
+      amount: 12
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMIJOINT_1"
+      name: "Grüner Novize"
+      amount: 23
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 15
+    - obj: "SCHUTZRING_GESCHOSSE1"
+      name: "Ring"
+      amount: 3
+    - obj: "SCHUTZRING_FEUER2"
+      name: "Ring"
+      amount: 1
+    - obj: "SCHUTZRING_FEUER1"
+      name: "Ring"
+      amount: 2
+- obj: "CHESTSMALL_OCCHESTSMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 1
+    - obj: "ITAT_CRAWLER_02"
+      name: "Panzerplatte"
+      amount: 4
+    - obj: "ITAT_WOLF_01"
+      name: "Wolfsfell"
+      amount: 2
+- obj: "CHESTBIG_OCCHESTMEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 2
+    - obj: "ITFORICE"
+      name: "Reis"
+      amount: 4
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 13
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 10
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 6
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 5
+- obj: "CHESTBIG_OCCHESTMEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 15
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 10
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 6
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 10
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 7
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 4
+- obj: "CHESTBIG_OCCHESTMEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 2
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 4
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 4
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 6
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 27
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 34
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 24
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 40
+    - obj: "ITRW_BOW_SMALL_01"
+      name: "Kurzbogen"
+      amount: 1
+- obj: "CHESTBIG_OCCHESTMEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 4
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 3
+    - obj: "ITMI_ALCHEMY_ALCOHOL_01"
+      name: "Reiner Alkohol"
+      amount: 2
+    - obj: "ITMI_ALCHEMY_SULPHUR_01"
+      name: "Schwefel"
+      amount: 2
+    - obj: "ITFO_POTION_DEX_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 7
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "MACHTVOLLE_KUNST"
+      name: "Machtvolle Kunst"
+      amount: 1
+    - obj: "ELEMENTARE_ARCANEI"
+      name: "Elementare Arcanei"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 130
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 4
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 2
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "GOETTERGABE"
+      name: "Göttergabe"
+      amount: 1
+    - obj: "GEHEIMNISSE_DER_ZAUBEREI"
+      name: "Geheimnisse der Zauberei"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 136
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 4
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_03"
+      name: "Gardeschwert"
+      amount: 3
+    - obj: "ITMW_1H_SWORD_SHORT_05"
+      name: "Buddlerzucht"
+      amount: 2
+    - obj: "ITMW_1H_SWORD_SHORT_04"
+      name: "Wundendorn"
+      amount: 3
+    - obj: "ITMW_1H_SWORD_SHORT_03"
+      name: "Lurkerbiß"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_SHORT_02"
+      name: "Bauernwehr"
+      amount: 3
+    - obj: "ITMW_1H_SWORD_SHORT_01"
+      name: "Kurzschwert"
+      amount: 2
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 3
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 6
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 2
+    - obj: "ITAT_MEATBUG_01"
+      name: "Wanzenfleisch"
+      amount: 6
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 5
+- obj: "OC_CHEST_SHADOW"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 37
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 2
+    - obj: "SCHUTZAMULETT_MAGIE"
+      name: "Amulett"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 120
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 1
+    - obj: "ITMI_STUFF_CANDEL_01"
+      name: "Kerzenständer"
+      amount: 2
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFO_POTION_MANA_01"
+      name: "Trank"
+      amount: 4
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 5
+    - obj: "ITMI_ALCHEMY_QUICKSILVER_01"
+      name: "Quecksilber"
+      amount: 1
+    - obj: "ITFO_PLANTS_FLAMEBERRY_01"
+      name: "Flammendorn"
+      amount: 3
+    - obj: "ITFO_PLANTS_STONEROOT_01"
+      name: "Steinwurzel"
+      amount: 2
+    - obj: "ITFO_PLANTS_BERRYS_01"
+      name: "Waldbeeren"
+      amount: 7
+    - obj: "ITFO_PLANTS_SERAPHIS_01"
+      name: "Seraphis"
+      amount: 3
+    - obj: "ITFO_PLANTS_HERB_03"
+      name: "Heilkräuter"
+      amount: 1
+    - obj: "ITFO_PLANTS_HERB_01"
+      name: "Heilkräuter"
+      amount: 5
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 3
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 23
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 3
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 50
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITKELOCKPICK"
+      name: "Dietrich"
+      amount: 3
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 5
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 120
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 4
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 80
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 17
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 1
+    - obj: "SCHUTZAMULETT_WAFFEN"
+      name: "Amulett"
+      amount: 1
+    - obj: "ITFO_POTION_HASTE_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_PERMA_02"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 4
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_OLD_01"
+      name: "Rostiges Schwert"
+      amount: 2
+    - obj: "ITMW_1H_AXE_OLD_01"
+      name: "Verwitterte Axt"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 17
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 22
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 55
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 21
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 18
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 24
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 19
+    - obj: "ITMI_STUFF_CUP_02"
+      name: "Pokal"
+      amount: 10
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 2521
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 500
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "SCHUTZAMULETT_WAFFEN_GESCHOSSE"
+      name: "Amulett"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 7
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 5
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 3
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_AMPHORE_01"
+      name: "Amphore"
+      amount: 4
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 3
+    - obj: "ITMW_1H_SLEDGEHAMMER_01"
+      name: "Schmiedehammer"
+      amount: 2
+    - obj: "ITMISWORDRAW"
+      name: "Rohstahl"
+      amount: 4
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_2H_SWORD_OLD_01"
+      name: "Rostiger Zweihänder"
+      amount: 3
+    - obj: "ITMW_1H_SWORD_SHORT_01"
+      name: "Kurzschwert"
+      amount: 5
+    - obj: "ITMISWORDRAW"
+      name: "Rohstahl"
+      amount: 3
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 32
+    - obj: "ITFOBOOZE"
+      name: "Reisschnaps"
+      amount: 32
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 47
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 56
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 31
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAMBOLT"
+      name: "Bolzen"
+      amount: 40
+    - obj: "ITRW_CROSSBOW_02"
+      name: "Armbrust"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 350
+    - obj: "ITMW_2H_AXE_HEAVY_04"
+      name: "Trollfaust"
+      amount: 1
+    - obj: "ITMW_2H_SWORD_HEAVY_04"
+      name: "Rachestahl"
+      amount: 1
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMIJOINT_3"
+      name: "Traumruf"
+      amount: 2
+    - obj: "ITMIJOINT_2"
+      name: "Schwarzer Weiser"
+      amount: 2
+    - obj: "ITFO_POTION_HASTE_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFO_POTION_STRENGTH_03"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 3
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_STRENGTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "SCHLACHT_UM_VARANT1"
+      name: "Schlacht um Varant"
+      amount: 1
+    - obj: "ITLSTORCH"
+      name: "Fackel"
+      amount: 10
+    - obj: "ITAMBOLT"
+      name: "Bolzen"
+      amount: 50
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITAMBOLT"
+      name: "Bolzen"
+      amount: 20
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 42
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAT_TROLL_01"
+      name: "Trollfell"
+      amount: 1
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 5
+    - obj: "ITAT_WOLF_01"
+      name: "Wolfsfell"
+      amount: 3
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 23
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 27
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 13
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 24
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 5
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 16
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 8
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 17
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 28
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM_RYAN"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 35
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "MYRTANAS_LYRIK"
+      name: "Myrtanas Lyrik"
+      amount: 1
+    - obj: "ITFOAPPLE"
+      name: "Apfel"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 65
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 115
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 29
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 23
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 4
+    - obj: "ITMI_STUFF_CUP_02"
+      name: "Pokal"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 72
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CRATE_LARGE_SCHMIED"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_SWORD_01"
+      name: "grobes Schwert"
+      amount: 2
+    - obj: "ITMISWORDRAW"
+      name: "Rohstahl"
+      amount: 20
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 19
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 29
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 12
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CRATE_LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 20
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 32
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 13
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 4
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 6
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+- obj: "CRATE LARGE"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITAT_SHADOW_01"
+      name: "Fell"
+      amount: 30
+    - obj: "ITAT_WOLF_01"
+      name: "Wolfsfell"
+      amount: 30
+- obj: "OC_CHEST_LARGE_A"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 76
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_1H_MACE_04"
+      name: "Stahlzunge"
+      amount: 2
+    - obj: "ITMW_1H_MACE_03"
+      name: "Blutfliegenstachel"
+      amount: 3
+    - obj: "ITMW_1H_MACE_02"
+      name: "Stachelkeule"
+      amount: 1
+    - obj: "ITMW_1H_MACE_01"
+      name: "Streitkolben"
+      amount: 2
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_2H_SWORD_LIGHT_03"
+      name: "Söldnerklinge"
+      amount: 2
+    - obj: "ITMW_2H_SWORD_LIGHT_02"
+      name: "Hüterklinge"
+      amount: 4
+    - obj: "ITMW_2H_SWORD_LIGHT_01"
+      name: "Leichter Zweihänder"
+      amount: 3
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITAMARROW"
+      name: "Pfeil"
+      amount: 20
+    - obj: "ITRW_BOW_SMALL_03"
+      name: "Feldbogen"
+      amount: 1
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_SILVERWARE_01"
+      name: "Besteck"
+      amount: 24
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 8897
+- obj: "OC_CHEST_LARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_03"
+      name: "Trank"
+      amount: 12
+    - obj: "ITFO_POTION_HEALTH_02"
+      name: "Trank"
+      amount: 13
+    - obj: "ITFO_POTION_MANA_03"
+      name: "Trank"
+      amount: 13
+    - obj: "ITFO_POTION_MANA_02"
+      name: "Trank"
+      amount: 5
+    - obj: "ITFO_POTION_HASTE_01"
+      name: "Trank"
+      amount: 10
+- obj: "OC_CRATE_SMALL"
+  name: "Crate"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 6
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_STRENGTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 69
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 6
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 36
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 34
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 13
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 12
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "REZEPTUREN"
+      name: "Rezepturen"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 55
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 26
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 16
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 18
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 21
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 53
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 19
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 3
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 15
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 6
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM_A"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 20
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 4
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 24
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 44
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 22
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_02"
+      name: "Pokal"
+      amount: 1
+    - obj: "ITFOWINE"
+      name: "Wein"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 10
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_OLDCOIN_01"
+      name: "Münze"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 2
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 16
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+    - obj: "ITMWPICKAXE"
+      name: "Spitzhacke"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 6
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 3
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 2
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 28
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PAN_01"
+      name: "Pfanne"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 5
+    - obj: "ITFOLOAF"
+      name: "Brot"
+      amount: 2
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITFO_MUTTON_01"
+      name: "Schinken"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 18
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 31
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 3
+    - obj: "ITMI_STUFF_MUG_01"
+      name: "Krug"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 41
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 5
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_WATER_01"
+      name: "Wasser"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 3
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 4
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 2
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 29
+- obj: "OC_CHEST_SMALL"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITFO_POTION_HEALTH_01"
+      name: "Trank"
+      amount: 1
+    - obj: "ITMI_STUFF_PLATE_01"
+      name: "Schüssel"
+      amount: 1
+    - obj: "ITFOCHEESE"
+      name: "Käse"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 14
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 40
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 3
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 2
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 29
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_BARBKNIFE_01"
+      name: "Rasiermesser"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 5
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 22
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMI_STUFF_CUP_01"
+      name: "Becher"
+      amount: 1
+    - obj: "ITFOMUTTON"
+      name: "gebratenes Fleisch"
+      amount: 4
+    - obj: "ITFOBEER"
+      name: "Bier"
+      amount: 1
+    - obj: "ITMINUGGET"
+      name: "Erzbrocken"
+      amount: 17
+- obj: "CHESTBIG_OCCHESTLARGE"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+- obj: "OC_CHEST_MEDIUM"
+  name: "Chest"
+  contents:
+    - obj: "ITAP_ARCHIPELAGO"
+      name: "Archipelago"
+      amount: 1
+    - obj: "ITMW_2H_AXE_LIGHT_03"
+      name: "Schmetterschlag"
+      amount: 1
+    - obj: "ITMW_2H_AXE_LIGHT_02"
+      name: "Donnerschlag"
+      amount: 3
+    - obj: "ITMW_2H_AXE_LIGHT_01"
+      name: "Leichte Streitaxt"
+      amount: 2
