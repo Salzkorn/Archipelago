@@ -49,7 +49,8 @@
 #
 #####################
 
-
+# with open("npcs.yaml") as file:
+#     result = yaml.safe_load(file)
 
 
 pass
