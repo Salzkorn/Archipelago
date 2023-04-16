@@ -62,4 +62,4 @@ workflow
     - go to builder tab
     - open archipelago.vm script
     - build mod
-    - copy archipelago.vdf into data
+    - copy archipelago.vdf into ./Data
