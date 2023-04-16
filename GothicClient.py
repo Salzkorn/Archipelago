@@ -30,7 +30,9 @@ gothic_logger = logging.getLogger("Gothic")
 # from sc2.data import Race
 # from sc2.main import run_game
 # from sc2.player import Bot
-from worlds.sc2wol import SC2WoLWorld
+from worlds.gothic1 import Gothic1World
+from worlds.gothic1.Items import item_id_to_name, item_table
+from worlds.gothic1.Locations import location_table
 # from worlds.sc2wol.Items import lookup_id_to_name, item_table, ItemData, type_flaggroups
 # from worlds.sc2wol.Locations import SC2WOL_LOC_ID_OFFSET
 # from worlds.sc2wol.MissionTables import lookup_id_to_mission
@@ -44,6 +46,10 @@ import colorama
 from NetUtils import ClientStatus, NetworkItem, RawJSONtoTextParser
 from MultiServer import mark_raw
 
+
+# Send/Receive from the perspective of the game
+G1_SEND_FILE = "ap_send.txt"
+G1_RECEIVE_FILE = "ap_receive.txt"
 
 class GothicClientProcessor(ClientCommandProcessor):
     ctx: GothicContext
@@ -91,14 +97,18 @@ class GothicClientProcessor(ClientCommandProcessor):
 
 class GothicContext(CommonContext):
     command_processor = GothicClientProcessor
-    game = "Gothic"
+    game = "Gothic 1"
     items_handling = 0b111
     observer = None
+    path = fr"D:\Program Files\Steam\steamapps\common\Gothic"
+    communicate_task = None
+    sending = False
+    last_sent_read = True
+    chest_count = 0
 
     difficulty = -1
     all_in_choice = 0
     mission_order = 0
-    # mission_req_table: typing.Dict[str, MissionInfo] = {}
     final_mission: int = 29
     announcements = queue.Queue()
     sc2_run_task: typing.Optional[asyncio.Task] = None
@@ -106,12 +116,14 @@ class GothicContext(CommonContext):
     current_tooltip = None
     last_loc_list = None
     difficulty_override = -1
-    mission_id_to_location_ids: typing.Dict[int, typing.List[int]] = {}
-    # last_bot: typing.Optional[ArchipelagoBot] = None
+    to_send = queue.Queue()
+    to_receive = queue.Queue()
 
     def __init__(self, *args, **kwargs):
         super(GothicContext, self).__init__(*args, **kwargs)
         self.raw_text_parser = RawJSONtoTextParser(self)
+        self.event_handler = GothicEventHandler(self)
+        self.communicate_task = asyncio.create_task(self.communicate(), name = "Send")
 
     async def server_auth(self, password_requested: bool = False):
         if password_requested and not self.password:
@@ -121,20 +133,76 @@ class GothicContext(CommonContext):
 
     def on_package(self, cmd: str, args: dict):
         if cmd in {"Connected"}:
-            self.difficulty = args["slot_data"]["game_difficulty"]
-            self.all_in_choice = args["slot_data"]["all_in_map"]
-            slot_req_table = args["slot_data"]["mission_req"]
-            # Maintaining backwards compatibility with older slot data
-            # self.mission_req_table = {
-            #     mission: MissionInfo(
-            #         **{field: value for field, value in mission_info.items() if field in MissionInfo._fields}
-            #     )
-            #     for mission, mission_info in slot_req_table.items()
-            # }
-            self.mission_order = args["slot_data"].get("mission_order", 0)
-            self.final_mission = args["slot_data"].get("final_mission", 29)
+            # self.difficulty = args["slot_data"]["game_difficulty"]
+            # self.all_in_choice = args["slot_data"]["all_in_map"]
+            # slot_req_table = args["slot_data"]["mission_req"]
+            # self.mission_order = args["slot_data"].get("mission_order", 0)
+            # self.final_mission = args["slot_data"].get("final_mission", 29)
+            self.clean_files()
+            self.start_observer()
+        elif cmd in {"ReceivedItems"}:
+            for item in args["items"]:
+                item_name = item_id_to_name[item.item]
+                self.to_send.put(item_name)
 
-            self.build_location_to_mission_mapping()
+    def clean_files(self):
+        if not self.path:
+            self.get_path()
+        reconnect_obs = True if self.observer else False
+        if reconnect_obs:
+            self.stop_observer()
+        send_path, receive_path = self.get_file_paths()
+        # Write empty string (in Gothic's encoding) to receive file
+        with open(receive_path, mode = 'wb') as file:
+            file.write((0).to_bytes(4, 'little'))
+        # Make send file empty
+        with open(send_path, mode = 'w') as _:
+            pass
+        if reconnect_obs:
+            self.start_observer()
+
+
+    def start_observer(self):
+        if not self.observer:
+            if not self.path:
+                self.get_path()
+            self.observer = Observer()
+            self.observer.schedule(self.event_handler, self.path)
+            self.observer.start()
+            gothic_logger.info("Started observation")
+
+    def stop_observer(self):
+        if self.observer:
+            self.observer.stop()
+            self.observer = None
+            gothic_logger.info("Stopped observation")
+
+    def get_path(self):
+        pass
+
+    async def communicate(self):
+        while True:
+            if self.last_sent_read and self.to_send.qsize() > 0:
+                self.sending = True
+                item = self.to_send.get()
+                gothic_logger.info(f"Sending item: {item}")
+                item_inst = item_table[item].inst
+                _, receive_path = self.get_file_paths()
+                with open(receive_path, mode = 'wb') as file:
+                    length = len(item_inst)
+                    file.write(length.to_bytes(4, 'little'))
+                    file.write(item_inst.encode())
+                self.last_sent_read = False
+                self.sending = False
+            while self.to_receive.qsize() > 0:
+                msgs = self.to_receive.get()
+                check = msgs[0]
+                gothic_logger.info(f"Got check: {check}")
+                if check == "1": # code for chest
+                    await self.send_msgs([{"cmd": 'LocationChecks', "locations": [location_table[self.chest_count].code]}])
+                    self.chest_count += 1
+            # Send one item per second
+            await asyncio.sleep(1)
 
     def on_print_json(self, args: dict):
         # goes to this world
@@ -271,6 +339,8 @@ class GothicContext(CommonContext):
         await super(GothicContext, self).shutdown()
         if self.observer:
             self.observer.stop()
+        if self.communicate_task:
+            self.communicate_task.cancel()
         # if self.last_bot:
         #     self.last_bot.want_close = True
         # if self.sc2_run_task:
@@ -310,6 +380,11 @@ class GothicContext(CommonContext):
     #     for objective in objectives:
             # yield SC2WOL_LOC_ID_OFFSET + mission_id * 100 + objective
 
+    def get_file_paths(self) -> tuple[str, str]:
+        send = fr"{self.path}\{G1_SEND_FILE}"
+        receive = fr"{self.path}\{G1_RECEIVE_FILE}"
+        return (send, receive)
+
 
 async def main():
     multiprocessing.freeze_support()
@@ -331,17 +406,34 @@ async def main():
     await ctx.shutdown()
 
 class GothicEventHandler(FileSystemEventHandler):
+    ctx: GothicContext
+    send_procs = 0
+    receive_procs = 0
+
+    def __init__(self, ctx: GothicContext):
+        self.ctx = ctx
+    
     def on_modified(self, event):
         super().on_modified(event)
+
+        send_path, receive_path = self.ctx.get_file_paths()
         
-        if event.src_path == fr"D:\Program Files\Steam\steamapps\common\Gothic\ap_send.txt":
+        if event.src_path == send_path:
             gothic_logger.info("Noticed modified ap_send.")
-            try:
+            self.send_procs += 1
+            if self.send_procs == 2:
+                self.send_procs = 0
                 with open(event.src_path, mode='rt') as file:
-                    msg = file.read()
-                    gothic_logger.info(f"Gothic sent: {msg}")
-            except:
-                raise
+                    msgs = file.readlines()
+                    self.ctx.to_receive.put(msgs)
+                    gothic_logger.info(f"Gothic sent: {msgs}")
+        elif event.src_path == receive_path:
+            gothic_logger.info("Noticed modified ap_receive.")
+            self.receive_procs += 1
+            if self.receive_procs == 2:
+                self.receive_procs = 0
+                if not self.ctx.sending:
+                    self.ctx.last_sent_read = True
 
 
 # maps_table = [
@@ -711,7 +803,6 @@ def mark_up_objectives(message, ctx, unfinished_locations, mission):
 #         unlocks[mission] = []
 
 #     return unlocks
-
 
 def check_game_install_path() -> bool:
     # First thing: go to the default location for ExecuteInfo.

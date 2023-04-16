@@ -19,3 +19,5 @@ item_table = {
 item_name_groups = {}
 for item, data in item_table.items():
     item_name_groups.setdefault(data.type, []).append(item)
+
+item_id_to_name = {item.code: name for name, item in item_table.items() if item.code}
