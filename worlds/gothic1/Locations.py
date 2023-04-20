@@ -1,6 +1,6 @@
 from BaseClasses import Location, MultiWorld
 from typing import NamedTuple, Callable
-from .dumps import npcs
+# from .dumps import npcs
 
 GOTHIC_LOCATION_OFFSET = 5353500
 
@@ -23,14 +23,14 @@ _chest_locations = [LocationData("Chests", f"Chest {code + 1}", code + GOTHIC_LO
 
 # Filter unique NPCs
 _npc_locations = []
-_npc_cache = {}
-_npc_code = CHEST_MAX_AMOUNT
-for npc in npcs:
-    _npc_cache.setdefault(npc['id'], []).append(npc['name'])
-for id in _npc_cache:
-    if len(_npc_cache[id]) == 1:
-        _npc_locations.append(LocationData("NPCs", _npc_cache[id][0], _npc_code))
-        _npc_code += 1
+# _npc_cache = {}
+# _npc_code = CHEST_MAX_AMOUNT
+# for npc in npcs:
+#     _npc_cache.setdefault(npc['id'], []).append(npc['name'])
+# for id in _npc_cache:
+#     if len(_npc_cache[id]) == 1:
+#         _npc_locations.append(LocationData("NPCs", _npc_cache[id][0], _npc_code))
+#         _npc_code += 1
 
 location_table = tuple(_chest_locations + _npc_locations)
 

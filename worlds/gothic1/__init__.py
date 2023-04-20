@@ -27,8 +27,9 @@ class Gothic1World(World):
         self.multiworld.regions += create_regions(self.player, self.multiworld)
 
     def create_items(self):
-        # 50 potions for 50 chests
-        pool = [self.create_item("Potion") for _ in range(50)]
+        # 50 random items for 50 chests
+        item_names = sorted(item_table.keys())
+        pool = [self.create_item(self.multiworld.random.choice(item_names)) for _ in range(50)]
         self.multiworld.itempool += pool
     
     def generate_basic(self):
