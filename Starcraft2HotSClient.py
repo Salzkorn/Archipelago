@@ -154,7 +154,7 @@ class StarcraftClientProcessor(ClientCommandProcessor):
     def _cmd_set_path(self, path: str = '') -> bool:
         """Manually set the SC2 install directory (if the automatic detection fails)."""
         if path:
-            persistent_store("Starcraft 2", "path", path)
+            os.environ['SC2PATH'] = path
             is_mod_installed_correctly()
             return True
         else:
@@ -1067,10 +1067,11 @@ def initialize_blank_mission_dict(location_table):
 
 
 def get_persistent_install_path() -> str | None:
-    game_path = persistent_load().get("Starcraft 2", {}).get("path", None)
-    if game_path is None and 'SC2PATH' in os.environ:
+    game_path = ""
+    if 'SC2PATH' in os.environ:
         game_path = os.environ['SC2PATH']
-        persistent_store("Starcraft 2", "path", game_path)
+    else:
+        game_path = persistent_load().get("Starcraft 2", {}).get("path", "")
     return game_path
 
 
