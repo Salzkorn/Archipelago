@@ -155,6 +155,7 @@ class StarcraftClientProcessor(ClientCommandProcessor):
         """Manually set the SC2 install directory (if the automatic detection fails)."""
         if path:
             os.environ['SC2PATH'] = path
+            persistent_store("Starcraft 2", "path", path)
             is_mod_installed_correctly()
             return True
         else:
@@ -1072,6 +1073,7 @@ def get_persistent_install_path() -> str | None:
         game_path = os.environ['SC2PATH']
     else:
         game_path = persistent_load().get("Starcraft 2", {}).get("path", "")
+        os.environ['SC2PATH'] = game_path
     return game_path
 
 
@@ -1113,6 +1115,7 @@ def check_game_install_path() -> bool:
                 if os.path.isfile(executable):
                     sc2_logger.info(f"Found an SC2 install at {base}!")
                     sc2_logger.debug(f"Latest executable at {executable}.")
+                    os.environ['SC2PATH'] = base
                     persistent_store("Starcraft 2", "path", base)
                     sc2_logger.debug(f"Persistent SC2 path set to {base}.")
                     return True
@@ -1273,6 +1276,7 @@ def is_mod_update_available(owner: str, repo: str, current_version: str) -> bool
 
 
 if __name__ == '__main__':
+    get_persistent_install_path()
     colorama.init()
     asyncio.run(main())
     colorama.deinit()
